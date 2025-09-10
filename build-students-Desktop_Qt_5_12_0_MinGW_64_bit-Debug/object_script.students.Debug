@@ -1,0 +1,11 @@
+debug/main.o
+debug/widget.o
+debug/rafer.o
+debug/stuinfo.o
+debug/addstu.o
+debug/findstu.o
+debug/moc_widget.o
+debug/moc_rafer.o
+debug/moc_stuinfo.o
+debug/moc_addstu.o
+debug/moc_findstu.o

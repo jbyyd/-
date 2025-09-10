@@ -1,0 +1,11 @@
+release/main.o
+release/widget.o
+release/rafer.o
+release/stuinfo.o
+release/addstu.o
+release/findstu.o
+release/moc_widget.o
+release/moc_rafer.o
+release/moc_stuinfo.o
+release/moc_addstu.o
+release/moc_findstu.o
